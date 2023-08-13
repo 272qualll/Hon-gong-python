@@ -7,6 +7,6 @@ t_sentence = "time"
 if g_sentence in user:
     print("hello.")
 elif t_sentence in user:
-    print("It's 22 o'clock now.")
+    print("It is 22 o'clock now.")
 else:
     print(user)
